@@ -15,7 +15,7 @@ public class OrderCreateRequest {
 
     private String customerEmail;
 
-    private String shippingAddress;
+    private String shippingAddress
 
     private List<OrderItemCreateRequest> orderItems;
 }
